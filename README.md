@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming, streaming, photography and a lot of other things.
+
+- I'm currently working on a D&D website and a Twitch/Discord bot
+- I'm currently learning React.js
+
 <!--
 **BurritoFreak/BurritoFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

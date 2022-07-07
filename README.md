@@ -5,6 +5,8 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 - I'm currently working on a D&D website and a Twitch/Discord bot
 - I'm currently learning React.js
 
+[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BurritoFreak/BurritoFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

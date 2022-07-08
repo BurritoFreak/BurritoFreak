@@ -1,4 +1,8 @@
-<h1 align="center">BurritoFreak</h1>
+<h1 align="center">
+  <p align="center">
+    <img alig src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&color=9509F7&center=true&vCenter=true&multiline=true&lines=BurritoFreak" />
+  </p>
+</h1>
 <p align="center">
   <a href="https://twitch.tv/BurritoFreak">
     <img alig src="https://img.shields.io/twitch/status/BurritoFreak?label=BurritoFreak&logo=Twitch" />

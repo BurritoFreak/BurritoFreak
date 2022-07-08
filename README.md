@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">BurritoFreak</h1>
 
-I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming, streaming, photography and a lot of other things.
+Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming, streaming, photography and a lot of other things.
 
 - I'm currently working on a D&D website and a Twitch/Discord bot
 - I'm currently learning React.js
@@ -12,6 +12,15 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
   <a href="https://twitter.com/burritofreak1">
     <img alig src="https://img.shields.io/twitter/follow/burritofreak1?logo=Twitter&style=flat" />
   </a>
+  <a href="https://github.com/BurritoFreak/BurritoFreak" >
+    <img alig src="https://visitor-badge.glitch.me/badge?page_id=BurritoFreak.BurritoFreak" />
+  </a>
+</p>
+
+<h2 align="center">Burrito's Github Stats</h2>
+
+<p align="center">
+ <img alig src="https://github-profile-trophy.vercel.app/?username=BurritoFreak&theme=juicyfresh&no-frame=true&no-bg=true&column=-1" />
 </p>
 
 <p align="center">
@@ -25,14 +34,15 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 
 ![Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
 ![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide&show_border=off)
-<p align="center">
- <img alig src="https://github-profile-trophy.vercel.app/?username=BurritoFreak&theme=juicyfresh&no-frame=true&no-bg=true&column=-1" />
-</p>
 
 [Git]:https://github.com/BurritoFreak
 [Twitter]:https://twitter.com/burritofreak1
 [ttv]:https://twitch.tv/BurritoFreak
+
 <!--
 **BurritoFreak/BurritoFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

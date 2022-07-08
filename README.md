@@ -10,6 +10,7 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Tester](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
 ![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
+![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide)
 
 <!--
 **BurritoFreak/BurritoFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

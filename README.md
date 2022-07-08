@@ -58,10 +58,10 @@ Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gam
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=BurritoFreak&theme=juicyfresh&no-frame=true&no-bg=true&column=-1" />
   <a href="https://github.com/BurritoFreak">
-    <img alig src="https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true&border_radius=10" />
+    <img alig src="https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&line_height=27&count_private=true&hide_border=true&border_radius=10&bg_color=45,ff00cc,333399&text_color=cfcfcf&title_color=fafafa&icon_color=15ff00" />
   </a>
   <a href="https://github.com/BurritoFreak">
-    <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true" />
+    <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true&bg_color=45,333399,ff00cc&text_color=cfcfcf&title_color=fafafa" />
   </a>
   <img alig src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak" />
   <img alig src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000" />

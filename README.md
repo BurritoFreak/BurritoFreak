@@ -14,7 +14,7 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 ![Tester](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
 ![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
 ![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide&show_border=off)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=BurritoFreak&theme=juicyfresh&no-frame=true&no-bg=true&column=-1)
 
 
 [Git]:https://github.com/BurritoFreak

@@ -8,7 +8,7 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 [![Twitch Status](https://img.shields.io/twitch/status/BurritoFreak?label=BurritoFreak&logo=Twitch)][ttv]
 [![Twitter Follow](https://img.shields.io/twitter/follow/burritofreak1?logo=Twitter&style=flat)][Twitter]
 
-[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&theme=dark&hide_border=true)][Git]
+[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true&border_radius=10)][Git]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true)][Git]
 
 ![Tester](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)

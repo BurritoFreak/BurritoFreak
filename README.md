@@ -20,22 +20,22 @@ Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gam
 <h2 align="center">Burrito's Github Stats</h2>
 
 <p align="center">
- <img alig src="https://github-profile-trophy.vercel.app/?username=BurritoFreak&theme=juicyfresh&no-frame=true&no-bg=true&column=-1" />
-</p>
-
-<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=BurritoFreak&theme=juicyfresh&no-frame=true&no-bg=true&column=-1" />
   <a href="https://github.com/BurritoFreak">
     <img alig src="https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true&border_radius=10" />
   </a>
   <a href="https://github.com/BurritoFreak">
     <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true" />
   </a>
+  <img alig src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak" />
+  <img alig src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000" />
 </p>
 
-![Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
-![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<h2 align="center">Memes</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+</p>
 
 ![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide&show_border=off)
 

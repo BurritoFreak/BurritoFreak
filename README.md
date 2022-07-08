@@ -9,9 +9,8 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 ![Twitter Follow](https://img.shields.io/twitter/follow/burritofreak1?logo=Twitter&style=flat)
 
 
-[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Tester](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
 ![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
 ![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide&show_border=off)

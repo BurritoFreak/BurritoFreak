@@ -4,7 +4,7 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 
 - I'm currently working on a D&D website and a Twitch/Discord bot
 - I'm currently learning React.js
-
+![Twitch Status](https://img.shields.io/twitch/status/BurritoFreak?label=BurritoFreak&logo=Twitch)
 [![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

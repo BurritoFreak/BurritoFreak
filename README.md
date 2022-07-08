@@ -8,12 +8,16 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 ![Twitch Status](https://img.shields.io/twitch/status/BurritoFreak?label=BurritoFreak&logo=Twitch)
 ![Twitter Follow](https://img.shields.io/twitter/follow/burritofreak1?logo=Twitter&style=flat)
 
+[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&theme=dark&hide_border=true)][Burrito Git]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true)][Burrito Git]
 
-[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Tester](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
 ![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
 ![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide&show_border=off)
+
+
+
+[Burrito Git]:https://github.com/BurritoFreak
 
 <!--
 **BurritoFreak/BurritoFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

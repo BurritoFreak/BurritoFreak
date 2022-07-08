@@ -63,7 +63,9 @@ Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gam
   <a href="https://github.com/BurritoFreak">
     <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true&bg_color=45,333399,ff00cc&text_color=cfcfcf&title_color=fafafa" />
   </a>
+  
   <img alig src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak" />
+  
   <img alig src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=6e6e6e&padding=20" />
 </p>
 

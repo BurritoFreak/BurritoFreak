@@ -14,10 +14,16 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
   </a>
 </p>
 
-[![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true&border_radius=10)][Git]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true)][Git]
+<p align="center">
+  <a href="https://github.com/BurritoFreak">
+    <img alig src="https://github-readme-stats.vercel.app/api?username=BurritoFreak&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/BurritoFreak">
+    <img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurritoFreak&langs_count=3&border_radius=10&theme=dark&hide_border=true" />
+  </a>
+</p>
 
-![Tester](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
+![Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=burritofreak)
 ![Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=burritofreak&bg=#000)
 ![Latest Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=burritofreak1&layout=wide&show_border=off)
 <p align="center">

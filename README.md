@@ -13,8 +13,8 @@
 
 Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming, streaming, photography and a lot of other things.
 
-- I'm currently working on a D&D website and a Twitch/Discord bot
-- I'm currently learning React.js
+- I am currently working on a D&D website and a Twitch/Discord bot
+- I am currently learning React.js
 
 <h3 align="center">Frameworks</h3>
 <p align="center">

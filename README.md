@@ -6,7 +6,7 @@ I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming,
 - I'm currently learning React.js
 
 ![Twitch Status](https://img.shields.io/twitch/status/BurritoFreak?label=BurritoFreak&logo=Twitch)
-![Twitter Follow](https://img.shields.io/twitter/follow/burritofreak1?logo=Twitter&style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/burritofreak1?logo=Twitter&style=flat)
 
 
 [![Burrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurritoFreak)](https://github.com/anuraghazra/github-readme-stats)

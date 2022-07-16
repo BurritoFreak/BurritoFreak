@@ -18,7 +18,7 @@
 
 Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gaming, streaming, photography and a lot of other things.
 
-- I am currently working on a D&D website and a Twitch/Discord bot
+- I am currently working on a [D&D website][dnd] and a [Twitch/Discord bot][Cb]
 - I am currently learning React.js
 
 <h3 align="center">Frameworks</h3>
@@ -85,6 +85,8 @@ Hi! I am BurritoFreak. I am a Mechanical Engineer with a passion for coding, gam
 [Git]:https://github.com/BurritoFreak
 [Twitter]:https://twitter.com/burritofreak1
 [ttv]:https://twitch.tv/BurritoFreak
+[Cb]:https://cyberburritos.com
+[dnd]:https://burritofreak.github.io/dndpt2/
 
 <!--
 **BurritoFreak/BurritoFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
